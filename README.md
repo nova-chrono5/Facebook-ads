@@ -87,6 +87,5 @@
 - 自然流量转化增长228%
 - 用户触达效率优化4.7倍
 通过融合三维创意引擎与阶梯式认知模型，实现广告ROI从1:2.5跃升至1:7.8，建立Facebook广告效能新范式。
-[image](https://github.com/user-attachments/assets/f56065c9-e31b-4b8d-9272-cf356386580f)
-)
+[YouTube视频](https://youtube.com/shorts/lEnKYgxwWIE)
 ```
