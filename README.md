@@ -86,6 +86,7 @@
 - 素材生命周期延长3.5倍
 - 自然流量转化增长228%
 - 用户触达效率优化4.7倍
-
+  [YouTube视频]([https://www.baidu.com](https://youtube.com/shorts/lEnKYgxwWIE
+)![image](https://github.com/user-attachments/assets/995af7b6-3289-4b8f-bfec-dfe44708b080)
 通过融合三维创意引擎与阶梯式认知模型，实现广告ROI从1:2.5跃升至1:7.8，建立Facebook广告效能新范式。
 ```
